@@ -19,7 +19,7 @@
   "gatsby-plugin-decap-cms": "^4.0.3",
   "gatsby-plugin-purgecss": "^6.2.1",
   "gatsby-plugin-react-helmet": "^6.15.0",
-  "gatsby-plugin-sass": "^6.15.0"
+  "gatsby-plugin-sass": "^6.15.0",
   "lodash": "^4.17.15"
   }
     "lodash-webpack-plugin": "^0.11.4",
